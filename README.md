@@ -103,6 +103,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add a `select` method to the  `plan` component to set the component as `selected` 
 - [ ] Add the code so that when a user clicks on the corresponding `plan` component its `selected` variable is set to `true`
 - [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected
+- [ ] Verify that the solution given permits several plans to be selected
 
 ## Skills Covered
 
