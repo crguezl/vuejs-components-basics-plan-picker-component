@@ -105,10 +105,13 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected
 - [ ] Verify that the solution given permits several plans to be selected
 - [ ] Make the `plan` component to `$emit` an event with name `select` and payload the `name`of the plan
+  - [ ] Read my notes on the api of [vm.$emit( eventName, […args] )](https://crguezl.github.io/learning-vue-geting-started-guide/#vm.emit-eventname-args)
 - [ ] Check in the Vue DevTools the presence of the events 
 - [ ] Inside the `plan-picker` component template set  the triggering of a method `selectPlan` to fire when the `select`  event is emitted. 
 - [ ] Inside the `plan-picker` component add a data attribute `selectedPlan` to store the plan that was selected by the user
 - [ ] Add also the code for the `selectPlan` method
+- [ ] Go back to the `plan` component and remove the `selected` data property (it is no longer need, since the parent component now knows which plan has been selected)
+- [ ] 
 
 ## Skills Covered
 
