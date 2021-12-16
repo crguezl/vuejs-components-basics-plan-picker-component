@@ -75,7 +75,18 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 
 ### Check List 
 
-- [ ] Use a minimum number of emmet expressions to generate complete the initial `index.html` to have it as at the beginning of the video [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props)
+- [ ] Use a minimum number of emmet expressions to generate complete the initial `index.html` to have it as at the beginning of the video [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props). The structure to replicate three times follows this pattern:
+  
+  ```html
+        <div class="plans">
+        <div class="plan">
+          <div class="description">
+            <span class="title">
+              The Single
+            </span>
+          </div>
+        </div>  
+  ```
   - [ ] Here is a [solution](plan-picker/solution.emmet)
 
 
