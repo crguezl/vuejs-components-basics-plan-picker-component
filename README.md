@@ -5,8 +5,8 @@ This lab corresponds to the section **Component Basics** of the VueSchool course
 
 This repository contains only the example codes for 
 
-1. the **click counter** and 
-2. 2. **plan-picker** 
+1. The **click counter** (video *[Introduction to Components](https://vueschool.io/lessons/introduction-to-components)*) and 
+2. **plan-picker** 
    
 examples used inside the initial section of the tutorial **Component Basics**.
 
@@ -27,11 +27,11 @@ Files [click-counter/solution.html) and [click-counter/solution-app.js](click-co
 
 Watch the videos 
 
-* Component's Template 2:20
+* [Component's Template](https://vueschool.io/lessons/components-template) 2:20
 * Reusable Components with Props 6:46
 * Nested Components 1:50
 * Global vs Local Components 3:11
-* Communication Between Components with Custom Events 7:24
+* [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) 7:24
 
 Leave your solution inside the files `index.html` and `app.js`.
 
