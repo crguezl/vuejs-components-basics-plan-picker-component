@@ -13,7 +13,14 @@ examples used inside the initial section of the tutorial **Component Basics**.
 ## Folder click-counter: Click Counter Task 
 
 
-Watch the video *[Introduction to Components](https://vueschool.io/lessons/introduction-to-components)* and write your code inside the empty files `index.html` and `app.js`.
+Watch the videos 
+
+1. *[Introduction to Components](https://vueschool.io/lessons/introduction-to-components)* 
+2. [Component's Template](https://vueschool.io/lessons/components-template) 2:20
+
+
+And write your code inside the empty files `index.html` and `app.js`.
+
 Files [click-counter/solution.html](click-counter/solution.html) and [click-counter/solution-app.js](click-counter/solution-app.js) contain the final solution. 
 
 See the solution working at <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/click-counter/solution.html>
@@ -36,6 +43,9 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
   - [ ] Set the template 
 - [ ] Add in the `app` div of the HTML the component just created
 - [ ] Insert new instances of the component in the HTML
+- [ ] Move the template from the `app.js` to the HTML using  a `script` tag
+- [ ] Add a second element, a paragraph `the count is` to the `click-counter` component 
+- [ ] Wrap the two elements in a `<div>`
 
 Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
 
@@ -43,7 +53,6 @@ Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can t
 
 Watch the videos 
 
-* [Component's Template](https://vueschool.io/lessons/components-template) 2:20
 * Reusable Components with Props 6:46
 * Nested Components 1:50
 * Global vs Local Components 3:11
