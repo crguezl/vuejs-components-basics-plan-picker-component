@@ -114,6 +114,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add a property `selectedPlan` to the `plan` component (that will be passed by the parent)
 - [ ] Add a computed property `isSelected` to the `plan` component that is `true` when the plan is the one selected
 - [ ] In the template of the `plan` component conditionally bind the class `active-plan` to the `.plan` div  if the plan has been selected
+- [ ] Inside the `plan-picker-template` pass the property `selectedPlan` to the children
 
 ## Skills Covered
 
