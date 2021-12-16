@@ -7,6 +7,6 @@ This repository contains the example code for the **click counter** and **plan-p
 
 **After this lab, you'll be familiar with:**
 - The idea behind components and how Vue.js components work
-- Component's template, and multiple ways to define your template
+- Component's template, and couple of ways to define your template
 - Communication between components with props and custom events
-- What is the true difference between global and local component registration
+- What is the difference between global and local component registration
