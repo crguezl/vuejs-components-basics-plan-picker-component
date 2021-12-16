@@ -1,11 +1,1 @@
-<div class="plans">
-    <div class="plan">
-        <div class="description"><span class="title">The Hacker</span></div>
-    </div>
-    <div class="plan">
-        <div class="description"><span class="title">The Hacker</span></div>
-    </div>
-    <div class="plan">
-        <div class="description"><span class="title">The Hacker</span></div>
-    </div>
-</div>
+.plans>(.plan>.description>{}+span.title{The Hacker})*3
