@@ -95,10 +95,11 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add to the Vue app data the `plans` array of Strings with the names of the plans
 - [ ] Substitute the repetitions of the `<plan>` component  inside  the HTML for a `v-for`  loop
 - [ ] Specify that the `prop` `name` has to be of type `String` and is `required`
-- [ ] Nested Components Video: Create a component <plan-picker>  to encapsulate the `.plans` div
+- [ ] **Nested Components Video**: Create a component <plan-picker>  to encapsulate the `.plans` div
 - [ ] Create the template for the component and move the `plans`array into the component
 - [ ] Make the `plan` component local to the `plan-picker` component
 - [ ] Make the `plan-picker` component local to the root component
+- [ ] [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components): We want to add the capability to select a plan. Add a variable `selected` to the `plan` component
 
 
 ## Skills Covered
