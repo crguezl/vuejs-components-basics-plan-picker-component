@@ -94,6 +94,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add it the `prop` with the `name` and update the HTML accordingly for all the repetitions
 - [ ] Add to the Vue app data the `plans` array of Strings with the names of the plans
 - [ ] Substitute the repetitions of the `<plan>` component  inside  the HTML for a `v-for`  loop
+- [ ] Specify that the `prop` `name` has to be of type `String` and is `required`
 
 
 ## Skills Covered
