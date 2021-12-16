@@ -113,6 +113,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Go back to the `plan` component and remove the `selected` data property (it is no longer need, since the parent component now knows which plan has been selected)
 - [ ] Add a property `selectedPlan` to the `plan` component (that will be passed by the parent)
 - [ ] Add a computed property `isSelected` to the `plan` component that is `true` when the plan is the one selected
+- [ ] In the template of the `plan` component conditionally bind the class `active-plan` if the plan has been selected
 
 ## Skills Covered
 
