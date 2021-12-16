@@ -17,10 +17,10 @@ Watch the video *[Introduction to Components](https://vueschool.io/lessons/intro
 Files [click-counter/solution.html) and [click-counter/solution-app.js](click-counter/solution-app.js) contain the final solution. 
 
 ```
-├── click-counter
-   ├── app.js
-   ├── index.html
-   └── solution.html
+├── app.js
+├── index.html
+├── solution-app.js
+└── solution.html
 ```
 
 ## Folder plan-picker: Plan Picker Task
