@@ -54,7 +54,7 @@ Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can t
 Watch the videos 
 
 * [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props) 6:46
-* Nested Components 1:50
+* [Nested Components](https://vueschool.io/lessons/nested-components) 1:50
 * Global vs Local Components 3:11
 * [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) 7:24
 
@@ -95,6 +95,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add to the Vue app data the `plans` array of Strings with the names of the plans
 - [ ] Substitute the repetitions of the `<plan>` component  inside  the HTML for a `v-for`  loop
 - [ ] Specify that the `prop` `name` has to be of type `String` and is `required`
+- [ ] Nested Components Video: Create a componen <plan-picker>  to encapsulate the `.plans` div
 
 
 ## Skills Covered

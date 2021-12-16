@@ -1,1 +1,1 @@
-.plans>(.plan>.description>{}+span.title{The Hacker})*3
+.plans>(.plan>.description>span.title{The Hacker})*3
