@@ -55,7 +55,7 @@ Watch the videos
 
 * [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props) 6:46
 * [Nested Components](https://vueschool.io/lessons/nested-components) 1:50
-* Global vs Local Components 3:11
+* [Global vs Local Components 3:11](https://vueschool.io/lessons/global-vs-local-components)
 * [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) 7:24
 
 Leave your solution inside the files `index.html` and `app.js`.
@@ -96,6 +96,8 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Substitute the repetitions of the `<plan>` component  inside  the HTML for a `v-for`  loop
 - [ ] Specify that the `prop` `name` has to be of type `String` and is `required`
 - [ ] Nested Components Video: Create a component <plan-picker>  to encapsulate the `.plans` div
+- [ ] Create the template for the component and move the `plans`array into the component
+- [ ] Make the `plan` component local to the `plan-picker` component
 
 
 ## Skills Covered
