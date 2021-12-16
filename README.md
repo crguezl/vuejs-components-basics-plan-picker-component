@@ -20,15 +20,23 @@ Files [click-counter/solution.html) and [click-counter/solution-app.js](click-co
 
 ## Plan Picker Task
 
+Watch the videos 
+
+* Component's Template 2:20
+* Reusable Components with Props 6:46
+* Nested Components 1:50
+* Global vs Local Components 3:11
+* Communication Between Components with Custom Events 7:24
+
+Leave your solution inside the files `index.html` and `app.js`.
+
 ```
+├── coffee.jpg
 ├── index.html
-├── package.json
-└── plan-picker
-    ├── coffee.jpg
-    ├── logo.png
-    ├── solution-app.js
-    ├── solution.html
-    └── style.css
+├── logo.png
+├── solution-app.js
+├── solution.html
+└── style.css
 ```
 
 ## Skills Covered
