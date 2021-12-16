@@ -102,6 +102,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components): We want to add the capability to select a plan. Add a boolean variable `selected` to the `plan` component
 - [ ] Add a `select` method to the  `plan` component to set the component as `selected` 
 - [ ] Add the code so that when a user clicks on the corresponding `plan` component its `selected` variable is set to `true`
+- [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected
 
 ## Skills Covered
 
