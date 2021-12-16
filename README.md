@@ -53,7 +53,7 @@ Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can t
 
 Watch the videos 
 
-* Reusable Components with Props 6:46
+* [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props) 6:46
 * Nested Components 1:50
 * Global vs Local Components 3:11
 * [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) 7:24
@@ -72,6 +72,11 @@ Leave your solution inside the files `index.html` and `app.js`.
 Files [plan-picker/solution.html](plan-picker/solution.html) and [plan-picker/solution-app.js](plan-picker/solution-app.js) contain the final solution. 
 
 See the solution working at <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/plan-picker/solution.html>
+
+### Check List 
+
+- [ ] Use a minimum number of emmet expressions to generate complete the initial `index.html` to have it as at the beginning of the video [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props)
+  - [ ] Here is a [solution](plan-picker/solution.emmet)
 
 
 ## Skills Covered
