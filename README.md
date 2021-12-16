@@ -16,6 +16,9 @@ examples used inside the initial section of the tutorial **Component Basics**.
 Watch the video *[Introduction to Components](https://vueschool.io/lessons/introduction-to-components)* and write your code inside the empty files `index.html` and `app.js`.
 Files [click-counter/solution.html](click-counter/solution.html) and [click-counter/solution-app.js](click-counter/solution-app.js) contain the final solution. 
 
+See the solution working at <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/click-counter/solution.html>
+
+
 ```
 ├── app.js
 ├── index.html
@@ -43,6 +46,11 @@ Leave your solution inside the files `index.html` and `app.js`.
 ├── solution.html
 └── style.css
 ```
+
+Files [plan-picker/solution.html](plan-picker/solution.html) and [plan-picker/solution-app.js](plan-picker/solution-app.js) contain the final solution. 
+
+See the solution working at <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/plan-picker/solution.html>
+
 
 ## Skills Covered
 
