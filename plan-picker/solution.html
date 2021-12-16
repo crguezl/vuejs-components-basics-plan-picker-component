@@ -23,7 +23,7 @@
 
   <script type="text/x-template" id="plan-picker-template">
     <div class="plans">
-      <plan-picker-item v-for="plan in plans" :name="plan" @select="selectPlan" :selected-plan="selectedPlan"></plan>
+      <plan-picker-item v-for="plan in plans" :name="plan" @select="selectPlan" :selected-plan="selectedPlan"></plan-picker-item>
     </div>
   </script>
 
@@ -39,7 +39,7 @@
 
 
   <script src="https://unpkg.com/vue"></script>
-  <script src="app.js"></script>
+  <script src="solution-app.js"></script>
   <link rel="stylesheet" href="style.css">
 </body>
 
