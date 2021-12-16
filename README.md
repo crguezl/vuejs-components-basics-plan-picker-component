@@ -111,7 +111,8 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Inside the `plan-picker` component add a data attribute `selectedPlan` to store the plan that was selected by the user
 - [ ] Add also the code for the `selectPlan` method
 - [ ] Go back to the `plan` component and remove the `selected` data property (it is no longer need, since the parent component now knows which plan has been selected)
-- [ ] 
+- [ ] Add a property `selectedPlan` to the `plan` component (that will be passed by the parent)
+- [ ] Add a computed property `isSelected` to the `plan` component that is `true` when the plan is the one selected
 
 ## Skills Covered
 
