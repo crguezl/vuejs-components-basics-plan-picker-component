@@ -37,6 +37,8 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add in the `app` div of the HTML the component just created
 - [ ] Insert new instances of the component in the HTML
 
+Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
+
 ## Folder plan-picker: Plan Picker Task
 
 Watch the videos 
