@@ -108,6 +108,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Check in the Vue DevTools the presence of the events 
 - [ ] Inside the `plan-picker` component template set  the triggering of a method `selectPlan` to fire when the `select`  event is emitted. 
 - [ ] Inside the `plan-picker` component add a data attribute `selectedPlan` to store the plan that was selected by the user
+- [ ] Add also the code for the `selectPlan` method
 
 ## Skills Covered
 
