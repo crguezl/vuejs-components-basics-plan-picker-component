@@ -99,8 +99,8 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Create the template for the component and move the `plans`array into the component
 - [ ] Make the `plan` component local to the `plan-picker` component
 - [ ] Make the `plan-picker` component local to the root component
-- [ ] [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components): We want to add the capability to select a plan. Add a variable `selected` to the `plan` component
-
+- [ ] [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components): We want to add the capability to select a plan. Add a boolean variable `selected` to the `plan` component
+- [ ] Add a `select` method to the  `plan` component to set the component as `selected` 
 
 ## Skills Covered
 
