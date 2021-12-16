@@ -90,6 +90,8 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
         </div>
   ```
   - [ ] Here is a [solution](plan-picker/solution.emmet)
+- [ ] Create the `plan` component that encapsulates the template above
+- [ ] Add it the `prop` with the `name` and update the HTML accordingly for all the repetitions
 
 
 ## Skills Covered
