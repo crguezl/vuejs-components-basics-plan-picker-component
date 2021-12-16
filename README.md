@@ -14,7 +14,7 @@ examples used inside the initial section of the tutorial **Component Basics**.
 
 
 Watch the video *[Introduction to Components](https://vueschool.io/lessons/introduction-to-components)* and write your code inside the empty files `index.html` and `app.js`.
-Files [click-counter/solution.html) and [click-counter/solution-app.js](click-counter/solution-app.js) contain the final solution. 
+Files [click-counter/solution.html](click-counter/solution.html) and [click-counter/solution-app.js](click-counter/solution-app.js) contain the final solution. 
 
 ```
 ├── app.js
