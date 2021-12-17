@@ -40,7 +40,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Create a component `click-counter` using `Vue.component`
   - [ ] Add the ´data` function that returns the object with the data. 
   - [ ] Set the `count`
-  - [ ] Set the template 
+  - [ ] Set the template. Instead of `<script type= 'text/x-template' ...>` use the [`<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) HTML tag. Does it works?
 - [ ] Add in the `app` div of the HTML the component just created
 - [ ] Insert new instances of the component in the HTML
 - [ ] Move the template from the `app.js` to the HTML using  a `script` tag
@@ -115,7 +115,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add a computed property `isSelected` to the `plan` component that is `true` when the plan is the one selected
 - [ ] In the template of the `plan` component conditionally bind the class `active-plan` to the `.plan` div  if the plan has been selected
 - [ ] Inside the `plan-picker-template` pass the property `selectedPlan` to the children.
-  - [ ] Be carefull that HTML attributes are case insensitive but the name of the `plan` attribute we choose was `selectedPlan` (*CamelCase*) and so `v-bind:selectedPlan="..."` is not going to work. You have to use the equivalent *kebab-case* string
+  - [ ] Be carefull that HTML attributes are case insensitive but the name of the `plan` attribute we choose inside the JavaScript code was `selectedPlan` (*CamelCase*) and so to write `v-bind:selectedPlan="..."` is not going to work. You have to use the equivalent *kebab-case* string
 
 ## Skills Covered
 
