@@ -35,6 +35,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 
 ### Check List
 
+- [ ]  All along, use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
 - [ ] Set the initial HTML and load Vue from the CDN
 - [ ] Inside the app create the Vue app attached to the corresponding div element 
 - [ ] Create a component `click-counter` using `Vue.component`
@@ -58,7 +59,6 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
   ```
   Read the section [Prop Casing (camelCase vs kebab-case)](https://crguezl.github.io/learning-vue-geting-started-guide/#prop-casing-camelcase-vs-kebab-case)
   of the *Annotated Reading of the Essentials Section of the Vue.js Guide*
-- [ ]  All along, use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
 
 ## Folder plan-picker: Plan Picker Task
 
