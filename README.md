@@ -49,6 +49,15 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add a second element, a paragraph `the count is` to the `click-counter` component 
 - [ ] Wrap the two elements in a `<div>`
 - [ ] Move all the code from `app.js` to the HTML `index.html` 
+- [ ] Add a `prop` with name `click-title` to the `click-counter` component so that instead of the fixed `the count is` the parent component can specify the prefix paragraph:
+
+  ```html
+    <click-counter click-title="The first counter is:"></click-counter>
+    <click-counter click-title="The second counter is:"></click-counter>
+    <click-counter click-title="The Third counter is:"></click-counter>
+  ```
+  Read the section [Prop Casing (camelCase vs kebab-case)](https://crguezl.github.io/learning-vue-geting-started-guide/#prop-casing-camelcase-vs-kebab-case)
+  of the *Annotated Reading of the Essentials Section of the Vue.js Guide*
 
 Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
 
