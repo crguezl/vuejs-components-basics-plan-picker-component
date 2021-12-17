@@ -110,7 +110,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Specify that the `prop` `name` has to be of type `String` and is `required`
 
 
-#### [Nested Components](https://vueschool.io/lessons/nested-components) Video** 
+#### [Nested Components](https://vueschool.io/lessons/nested-components) Video
 
 - [ ] Create a component <plan-picker>  to encapsulate the `.plans` div
 - [ ] Create the template for the component and move the `plans` array into the component
@@ -118,7 +118,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Make the `plan-picker` component local to the root component
 
 
-#### [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) Video**
+#### [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) Video
 
 We want to add the capability to select a plan. 
 
