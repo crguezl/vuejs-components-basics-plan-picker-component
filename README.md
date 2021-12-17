@@ -58,8 +58,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
   ```
   Read the section [Prop Casing (camelCase vs kebab-case)](https://crguezl.github.io/learning-vue-geting-started-guide/#prop-casing-camelcase-vs-kebab-case)
   of the *Annotated Reading of the Essentials Section of the Vue.js Guide*
-
-Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
+- [ ]  All along, use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
 
 ## Folder plan-picker: Plan Picker Task
 
