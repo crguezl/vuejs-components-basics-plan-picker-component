@@ -86,7 +86,9 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 
 ### Check List 
 
-- [ ]  **[Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props) Video**: Use a minimum number of emmet expressions to generate complete the initial `index.html` to have it as at the beginning of the video [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props). The structure to replicate three or four times has to follow this pattern:
+#### [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props)
+  
+- [ ]  Use a minimum number of emmet expressions to generate complete the initial `index.html` to have it as at the beginning of the video [Reusable Components with Props](https://vueschool.io/lessons/reusable-components-with-props). The structure to replicate three or four times has to follow this pattern:
   
   ```html
         <div class="plans">
@@ -106,11 +108,21 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add to the Vue app data the `plans` array of Strings with the names of the plans
 - [ ] Substitute the repetitions of the `<plan>` component  inside  the HTML for a `v-for`  loop
 - [ ] Specify that the `prop` `name` has to be of type `String` and is `required`
-- [ ] **[Nested Components](https://vueschool.io/lessons/nested-components) Video**: Create a component <plan-picker>  to encapsulate the `.plans` div
+
+
+#### [Nested Components](https://vueschool.io/lessons/nested-components) Video** 
+
+- [ ] Create a component <plan-picker>  to encapsulate the `.plans` div
 - [ ] Create the template for the component and move the `plans`array into the component
 - [ ] Make the `plan` component local to the `plan-picker` component
 - [ ] Make the `plan-picker` component local to the root component
-- [ ] **[Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) Video**: We want to add the capability to select a plan. Add a boolean variable `selected` to the `plan` component
+
+
+#### [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) Video**
+
+We want to add the capability to select a plan. 
+
+- [ ] Add a boolean variable `selected` to the `plan` component
 - [ ] Add a `select` method to the  `plan` component to set the component as `selected` 
 - [ ] Add the code so that when a user clicks on the corresponding `plan` component its `selected` variable is set to `true`
 - [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected
