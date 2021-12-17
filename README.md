@@ -49,7 +49,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Add a second element, a paragraph `the count is` to the `click-counter` component 
 - [ ] Wrap the two elements in a `<div>`
 - [ ] Move all the code from `app.js` to the HTML `index.html` 
-- [ ] Add a `prop` with name `click-title` to the `click-counter` component so that instead of the fixed `"the count is"` the parent component can specify the prefix paragraph:
+- [ ] Add a `prop` with name `click-title` to the `click-counter` component so that instead of the fixed `"the count is"`, the parent component can specify the prefix paragraph:
 
   ```html
     <click-counter click-title="The first counter is:"></click-counter>
