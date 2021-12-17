@@ -40,12 +40,15 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 - [ ] Create a component `click-counter` using `Vue.component`
   - [ ] Add the ´data` function that returns the object with the data. 
   - [ ] Set the `count`
-  - [ ] Set the template. Instead of `<script type= 'text/x-template' ...>` use the [`<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) HTML tag. Does it works?
+  - [ ] Set the template as a String template
 - [ ] Add in the `app` div of the HTML the component just created
 - [ ] Insert new instances of the component in the HTML
 - [ ] Move the template from the `app.js` to the HTML using  a `script` tag
+- [ ]  Instead of `<script type= 'text/x-template' ...>` use the [`<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) HTML tag. 
+  Does it works?
 - [ ] Add a second element, a paragraph `the count is` to the `click-counter` component 
 - [ ] Wrap the two elements in a `<div>`
+- [ ] Move all the code from `app.js` to the HTML `index.html` 
 
 Use as many [emmet expressions](https://docs.emmet.io/cheat-sheet/) as you can to speed up the edition
 
