@@ -118,6 +118,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 #### [Global vs Local Components](https://vueschool.io/lessons/global-vs-local-components)
 
 - [ ] Make the `plan` component local to the `plan-picker` component
+  - [ ] Check that a local component can not be used out of its scope
 - [ ] Make the `plan-picker` component local to the root component
 
 
