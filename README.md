@@ -114,6 +114,9 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 
 - [ ] Create a component <plan-picker>  to encapsulate the `.plans` div
 - [ ] Create the template for the component and move the `plans` array into the component
+
+#### [Global vs Local Components](https://vueschool.io/lessons/global-vs-local-components)
+
 - [ ] Make the `plan` component local to the `plan-picker` component
 - [ ] Make the `plan-picker` component local to the root component
 
