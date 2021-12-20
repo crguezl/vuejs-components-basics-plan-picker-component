@@ -142,7 +142,7 @@ We want to add the capability to select a plan.
 - [ ] Go back to the `plan` component and remove the `selected` data property (it is no longer need, since the parent component now knows which plan has been selected)
 - [ ] Add a property `selectedPlan` to the `plan` component (that will be passed by the parent)
 - [ ] Add a computed property `isSelected` to the `plan` component that is `true` when the plan is the one selected
-- [ ] In the template of the `plan` component conditionally bind the class `active-plan` to the `.plan` div  if the plan has been selected
+- [ ] In the template of the `plan` component conditionally bind the class `active-plan` to the `.plan` div  if the plan is selected
 - [ ] Inside the `plan-picker-template` pass the property `selectedPlan` to the children.
   - [ ] Be carefull that HTML attributes are case insensitive but the name of the `plan` attribute we choose inside the JavaScript code was `selectedPlan` (*CamelCase*) and so to write `v-bind:selectedPlan="..."` is not going to work. You have to use the equivalent *kebab-case* string
 
