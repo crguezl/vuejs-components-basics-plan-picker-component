@@ -107,6 +107,8 @@ Watch the videos
 
 Leave your solution inside the files `index.html` and `app.js`.
 
+Here is the structure of the folder:
+
 ```
 ├── coffee.jpg
 ├── index.html
