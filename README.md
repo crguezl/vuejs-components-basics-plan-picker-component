@@ -171,7 +171,14 @@ We want to add the capability to select a plan. See how the
 - [ ] Add a boolean variable `selected` to the `plan` component
 - [ ] Add a `select` method to the  `plan` component to set the component as `selected` 
 - [ ] Add the code so that when a user clicks on the corresponding `plan` component its `selected` variable is set to `true`
-- [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected
+- [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected so that the button changes bacground color when selected, since the `style.css` contains the following:
+
+  ```css 
+  .plans .active-plan {
+    border-color: #352001;
+    background-image: linear-gradient(to bottom right, white, #8F4401);
+  }
+  ```
 - [ ] Verify that, unfortunately, the solution given permits several plans to be selected
 - [ ] Make the `plan` component to `$emit` an event with name `select` and payload the `name`of the plan
   - [ ] Read my notes on the api of [vm.$emit( eventName, […args] )](https://crguezl.github.io/learning-vue-geting-started-guide/#vm.emit-eventname-args)
