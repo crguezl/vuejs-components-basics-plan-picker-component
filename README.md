@@ -151,7 +151,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 
 #### [Nested Components](https://vueschool.io/lessons/nested-components) Video
 
-- [ ] Create a component <plan-picker>  to encapsulate the `.plans` div
+- [ ] Create a component with name `<plan-picker>`  to encapsulate the `.plans` div
 - [ ] Create the template for the component and move the `plans` array into the component
 
 #### [Global vs Local Components](https://vueschool.io/lessons/global-vs-local-components)
