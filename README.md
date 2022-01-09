@@ -50,7 +50,7 @@ Files [click-counter/solution.html](click-counter/solution.html) and [click-coun
 - [ ] Set the initial HTML and load Vue from the CDN
 - [ ] Inside the app create the Vue app attached to the corresponding div element 
 - [ ] Create a component `click-counter` using `Vue.component`
-  - [ ] Add the ´data` function that returns the object with the data. 
+  - [ ] Add the `data` function that returns the object with the data. 
   - [ ] Set the `count`
   - [ ] Set the template as a String template
 - [ ] Add in the `app` div of the HTML the component just created
