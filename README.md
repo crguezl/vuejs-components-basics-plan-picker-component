@@ -24,9 +24,7 @@ The goal is to write a simple component `<click-counter>`that can be called like
 </div>
 ```
 
-so that when you click in the input the counter shown is increased.
-
-and it will work as shown here:  <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/click-counter/solution.html>
+so that when you click in the input the counter shown is increased. It has to work as shown here:  <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/click-counter/solution.html>
 
 Watch the videos 
 
