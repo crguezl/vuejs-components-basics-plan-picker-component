@@ -21,7 +21,7 @@ The goal is to write a simple component `<click-counter>`that can be called like
     <click-counter></click-counter>
     <click-counter></click-counter>
     <click-counter></click-counter>
-  </div>
+</div>
 ```
 
 and it will work as shown here:  <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/click-counter/solution.html>
