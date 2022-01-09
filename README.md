@@ -12,6 +12,19 @@ examples used inside the initial section of the tutorial **Component Basics**.
 
 ## Folder click-counter: Click Counter Task 
 
+The goal is to write a simple component `<click-counter>`that can be called like that:
+
+```html
+<div id="app">
+    <h1>Vue.js Components Fundamentals</h1>
+    <click-counter></click-counter>
+    <click-counter></click-counter>
+    <click-counter></click-counter>
+    <click-counter></click-counter>
+  </div>
+```
+
+and it will work as shown here:  <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/click-counter/solution.html>
 
 Watch the videos 
 
@@ -22,8 +35,6 @@ Watch the videos
 And write your code inside the empty files `index.html` and `app.js`.
 
 Files [click-counter/solution.html](click-counter/solution.html) and [click-counter/solution-app.js](click-counter/solution-app.js) contain the final solution. 
-
-See the solution working at <https://crguezl.github.io/vuejs-components-basics-plan-picker-component/click-counter/solution.html>
 
 
 ```
