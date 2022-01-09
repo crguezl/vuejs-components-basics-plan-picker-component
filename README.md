@@ -172,7 +172,7 @@ We want to add the capability to select a plan. See how the
 - [ ] Add a `select` method to the  `plan` component to set the component as `selected` 
 - [ ] Add the code so that when a user clicks on the corresponding `plan` component its `selected` variable is set to `true`
 - [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected
-- [ ] Verify that the solution given permits several plans to be selected
+- [ ] Verify that, unfortunately, the solution given permits several plans to be selected
 - [ ] Make the `plan` component to `$emit` an event with name `select` and payload the `name`of the plan
   - [ ] Read my notes on the api of [vm.$emit( eventName, […args] )](https://crguezl.github.io/learning-vue-geting-started-guide/#vm.emit-eventname-args)
 - [ ] Check in the Vue DevTools the presence of the events 
