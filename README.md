@@ -56,7 +56,7 @@ Files [click-counter/solution.html](click-counter/solution.html) and [click-coun
 - [ ] Add in the `app` div of the HTML the component just created
 - [ ] Insert new instances of the component in the HTML
 - [ ] Move the template from the `app.js` to the HTML using  a `script` tag
-- [ ]  Instead of `<script type= 'text/x-template' ...>` use the [`<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) HTML tag. 
+- [ ]  Instead of `<script type= 'text/x-template' ...>` try also to use the [`<template>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template) HTML tag. 
   Does it works?
 - [ ] Add a second element, a paragraph `the count is` to the `click-counter` component 
 - [ ] Wrap the two elements in a `<div>`
@@ -72,6 +72,31 @@ Files [click-counter/solution.html](click-counter/solution.html) and [click-coun
   of the *Annotated Reading of the Essentials Section of the Vue.js Guide*
 
 ## Folder plan-picker: Plan Picker Task
+
+In this exercise you have to start from a HTML file that contains  repeated ` <div class="plan">` like
+
+```html
+      <div class="plans">
+        <div class="plan">
+          <div class="description">
+            <span class="title">
+              The Single
+            </span>
+          </div>
+        </div>
+
+        <div class="plan">
+          <div class="description">
+            <span class="title">
+              The Addict
+            </span>
+          </div>
+        </div>
+       ...
+      </div>  
+```
+
+and you have to factorize the code introducing a Vue.js component `<plan>`
 
 Watch the videos 
 
