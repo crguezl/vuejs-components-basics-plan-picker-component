@@ -179,6 +179,7 @@ We want to add the capability to select a plan. See how the
     background-image: linear-gradient(to bottom right, white, #8F4401);
   }
   ```
+  See [Class and Style Bindings](https://vuejs.org/v2/guide/class-and-style.html) in the Vue.js Guide
 - [ ] Verify that, unfortunately, the solution given permits several plans to be selected
 - [ ] Make the `plan` component to `$emit` an event with name `select` and payload the `name`of the plan
   - [ ] Read my notes on the api of [vm.$emit( eventName, […args] )](https://crguezl.github.io/learning-vue-geting-started-guide/#vm.emit-eventname-args)
