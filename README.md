@@ -165,7 +165,8 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
 
 #### [Communication Between Components with Custom Events](https://vueschool.io/lessons/communication-between-components) Video
 
-We want to add the capability to select a plan. 
+We want to add the capability to select a plan. See how the 
+[solution](https://crguezl.github.io/vuejs-components-basics-plan-picker-component/plan-picker/solution.html) works when you click in one of the plans. We want to reproduce this behavior,
 
 - [ ] Add a boolean variable `selected` to the `plan` component
 - [ ] Add a `select` method to the  `plan` component to set the component as `selected` 
