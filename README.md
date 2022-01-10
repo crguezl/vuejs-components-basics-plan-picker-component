@@ -186,7 +186,7 @@ We want to add the capability to select a plan. See how the
 - [ ] We need to let the component communicate to its parent when the user has clicked on it. 
       Make the `plan` component to `$emit` an event with name `select` and payload the `name`of the plan
   - [ ] Read the notes on the api of [vm.$emit( eventName, […args] )](https://crguezl.github.io/learning-vue-geting-started-guide/#vm.emit-eventname-args)
-- [ ] Check in the Vue DevTools the presence of the events 
+- [ ] Check in the event tab of the Vue DevTools the presence of the events generated when you click
 - [ ] Inside the `plan-picker` component template set  the triggering of a method `selectPlan` to fire when the `select`  event is emitted. 
 - [ ] Inside the `plan-picker` component add a data attribute `selectedPlan` to store the plan that was selected by the user
 - [ ] Add also the code for the `selectPlan` method
