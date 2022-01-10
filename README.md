@@ -171,7 +171,7 @@ We want to add the capability to select a plan. See how the
 - [ ] Add a boolean variable `selected` to the `plan` component
 - [ ] Add a `select` method to the  `plan` component to set the component as selected
 - [ ] Add the code so that when a user clicks on the corresponding `plan` component its `selected` variable is set to `true`
-- [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected so that the button changes background color when selected, since the `style.css` contains the following:
+- [ ] Using the object syntax for `v-bind` add a class `active-plan` when a `plan` component is selected so that the background color of the button changes when selected, since the `style.css` contains the following:
 
   ```css 
   .plans .active-plan {
