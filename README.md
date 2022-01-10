@@ -143,7 +143,7 @@ See the solution working at <https://crguezl.github.io/vuejs-components-basics-p
   - [ ] Here is a [solution](plan-picker/solution.emmet)
 - [ ] Load Vue from the CDN and add the main app
 - [ ] Create the `plan` component that encapsulates the template above
-- [ ] Add it the `prop` with the `name` and update the HTML accordingly for all the repetitions
+- [ ] Add it the `prop` with the `name`, interpolate it inside the template and update the calls in the HTML accordingly for all the repetitions
 - [ ] Add to the Vue app data the `plans` array of Strings with the names of the plans
 - [ ] Substitute the repetitions of the `<plan>` component  inside  the HTML for a `v-for`  loop
 - [ ] Specify that the `prop` `name` has to be of type `String` and is `required`
