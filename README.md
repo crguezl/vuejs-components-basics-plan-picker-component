@@ -190,7 +190,7 @@ We want to add the capability to select a plan. See how the
 - [ ] Inside the `plan-picker` component template set  the triggering of a method `selectPlan` to fire when the `select`  event is emitted. 
 - [ ] Inside the `plan-picker` component add a data attribute `selectedPlan` to store the plan that was selected by the user
 - [ ] Add also the code for the `selectPlan` method
-- [ ] The idea is now that the parent `plan-picker`  component will send the slected plan as a property to the children components.
+- [ ] The idea is now that the parent `plan-picker`  component will send the selected plan as a property to the children components.
   
   Go back to the `plan` component and remove the `selected` data property (it is no longer need, since the parent component now knows which plan has been selected)
 - [ ] Add a property `selectedPlan` to the `plan` component (that will be passed by the parent)
