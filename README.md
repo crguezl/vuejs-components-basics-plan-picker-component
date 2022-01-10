@@ -52,7 +52,7 @@ Files [click-counter/solution.html](click-counter/solution.html) and [click-coun
 - [ ] Create a component `click-counter` using `Vue.component`
   - [ ] Add the `data` function that returns the object with the data. 
   - [ ] Set the `count`
-  - [ ] Set the template as a String template
+  - [ ] In the template increase the counter each time the button is clicked
 - [ ] Add in the `app` div of the HTML the component just created
 - [ ] Insert new instances of the component in the HTML
 - [ ] Move the template from the `app.js` to the HTML using  a `script` tag
